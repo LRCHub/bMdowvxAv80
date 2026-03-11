@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "アバンチュール / Nei.",
+  "base_artist": "Nei.",
+  "createdAt": "2026-03-11T07:36:06.875385Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アバンチュール♡ホリック",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": false,
+      "path": "select/01_アバンチュール♡ホリック_hololive_IDOL_PROJECT.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アバンチュール♡ホリック",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": false,
+      "path": "select/02_アバンチュール♡ホリック_hololive_IDOL_PROJECT.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アバンチュール",
+      "artist": "Kouhei Tanaka",
+      "has_synced": false,
+      "path": "select/03_アバンチュール_Kouhei_Tanaka.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アバンチュール(M-47)",
+      "artist": "田中公平",
+      "has_synced": false,
+      "path": "select/04_アバンチュール(M-47)_田中公平.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アバンチュール",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/05_アバンチュール_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アバンチュール",
+      "artist": "Mr.ふぉるて",
+      "has_synced": true,
+      "path": "select/06_アバンチュール_Mr.ふぉるて.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アバンチュール",
+      "artist": "Akina Nakamori (中森明菜)",
+      "has_synced": false,
+      "path": "select/07_アバンチュール_Akina_Nakamori_(中森明菜).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アバンチュール",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/08_アバンチュール_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Aventure -アバンチュール-",
+      "artist": "Lycaon",
+      "has_synced": false,
+      "path": "select/09_Aventure_-アバンチュール-_Lycaon.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アバンチュール",
+      "artist": "Nei.",
+      "has_synced": false,
+      "path": "select/pl_01_アバンチュール_Nei..txt"
+    }
+  ]
+}
